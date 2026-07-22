@@ -3,3 +3,8 @@ export { Dashboard } from './Dashboard';
 export { Receitas } from './Receitas';
 export { Despesas } from './Despesas';
 export { Metas } from './Metas';
+export { Relatorios } from './Relatorios';
+export { Calculadoras } from './Calculadoras';
+export { Educacao } from './Educacao';
+export { Consultoria } from './Consultoria';
+export { Perfil } from './Perfil';
