@@ -174,4 +174,4 @@ Contribuições são bem-vindas! Por favor:
 
 ---
 
-Desenvolvido com ❤️ por **José Falo**
+**
